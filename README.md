@@ -1,5 +1,5 @@
 <a href="https://vinaymeesaraganda.github.io/">
-  <img src="https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg" alt="MasterHead" width="1000" height="250">
+  <img src="https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg" alt="MasterHead" width="1000" height="200">
 </a>
 <h1 align="center">Hello, I am Vinay<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
