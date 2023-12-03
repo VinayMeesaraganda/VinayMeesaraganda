@@ -1,7 +1,9 @@
-[![MasterHead](https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg)](https://vinaymeesaraganda.github.io/)
+<a href="https://vinaymeesaraganda.github.io/">
+  <img src="https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg" alt="MasterHead" width="1000" height="250">
+</a>
 <h1 align="center">Hello, I am Vinay<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img align="right" alt="GIF" src="https://github.com/graviteja28/graviteja28/blob/main/coding-freak.gif?raw=true" width="400" height="320" style="max-width:100%;">
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="320" style="max-width:100%;">
 
 ## Thanks for stopping by. Here's a little bit about myself...
 
