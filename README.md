@@ -21,6 +21,7 @@
 - 📝 Here are my most recent blogs:
    - Medium
      - **[Unlocking Data Insights: An End-to-end Data Engineering Project | Airflow, AWS S3, Glue, Athena, and Python.](https://medium.com/@raj.vinay2408/end-to-end-data-engineering-project-using-airflow-and-aws-s3-91fa0cddd31c)**
+     - **[Secure Transactions: Credit Card Fraud Detection through Machine Learning](https://medium.com/@raj.vinay2408/secure-transactions-credit-card-fraud-detection-through-machine-learning-388cdc3e13c0)**
 - My Certifications and Courses
   - **[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/G9VZDMJLYPRT)**
   - **[Certified Tableau Desktop Specialist](https://www.credly.com/badges/23abb4fa-922c-419e-adff-eacdf98b3242/public_url)**
